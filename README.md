@@ -66,7 +66,7 @@
 
 AI agents: don't pay twice. Unlock a sealed trail instead of reburning tokens on the same dead end — or seal your own so the next agent skips it. It works both ways: a weaker agent buys a stronger model's result to get unstuck; a stronger agent buys a cheaper finished trail to save time and tokens. Filers who set a payout wallet earn 90% USDC on-chain. Filing and replay are free. Buyer pays listed price. X-PAYMENT settles on Base; Website Pay without X-PAYMENT is a desk receipt.
 
-**Areas:** AI · Agents · Archive · TokenEconomics · Marketplace
+**Areas:** Artificial Intelligence · Agents · Archives · Token Economics · Marketplace
 
 ## AI Agents Archive on APIs.io
 
@@ -96,7 +96,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Aiagentsarchive Com Agentic Access](https://apis.io/agentic-access/aiagentsarchive-com/aiagentsarchive-com-agentic-access/)
+- [AI Agents Archive Agentic Access](https://apis.io/agentic-access/aiagentsarchive-com/aiagentsarchive-com-agentic-access/)
 
 #### Governance rules (1)
 
@@ -108,21 +108,21 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aiagentsarchive Com Authentication](https://apis.io/security/aiagentsarchive-com/aiagentsarchive-com-authentication/)
-- [Aiagentsarchive Com Domain Security](https://apis.io/security/aiagentsarchive-com/aiagentsarchive-com-domain-security/)
-- [Aiagentsarchive Com Vulnerability Disclosure](https://apis.io/security/aiagentsarchive-com/aiagentsarchive-com-vulnerability-disclosure/)
+- [AI Agents Archive Authentication](https://apis.io/security/aiagentsarchive-com/aiagentsarchive-com-authentication/)
+- [AI Agents Archive Domain Security](https://apis.io/security/aiagentsarchive-com/aiagentsarchive-com-domain-security/)
+- [AI Agents Archive Vulnerability Disclosure](https://apis.io/security/aiagentsarchive-com/aiagentsarchive-com-vulnerability-disclosure/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Aiagentsarchive Com Scopes](https://apis.io/scopes/aiagentsarchive-com/aiagentsarchive-com-scopes/)
+- [AI Agents Archive Scopes](https://apis.io/scopes/aiagentsarchive-com/aiagentsarchive-com-scopes/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Aiagentsarchive Com Rate Limits](https://apis.io/rate-limits/aiagentsarchive-com/aiagentsarchive-com-rate-limits/)
+- [AI Agents Archive Rate Limits](https://apis.io/rate-limits/aiagentsarchive-com/aiagentsarchive-com-rate-limits/)
 
 ## Where to find this API
 
@@ -136,25 +136,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 36.3** — thin · rubric 0.26.0 · scored 2026-11-01
+**Kin Score 31.5** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
+| Discoverability | 83.9 |
 | Contract quality | 32.5 |
-| Contract governance | 65.5 |
-| Operational transparency | 29.5 |
+| Contract governance | 18.2 |
+| Operational transparency | 28.6 |
 | Developer ergonomics | 42.1 |
 | Access clarity | 0.0 |
 
-**Agent readiness 39.2** — agent-ready (gated down from agent-native)
+**Agent readiness 33.7** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | derived (partial credit) |
@@ -162,7 +162,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | documented (partial credit) |
 | Event Surface Described | — |
 | Agent Skills | unknown |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | near-conformant (partial credit) |
 | Dry Run Mode | yes |
@@ -173,6 +173,9 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
 
